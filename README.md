@@ -1,2 +1,1 @@
-# Saloni-Tinker Portfolio-Website
-URL : 
+# Saloni Tinker
